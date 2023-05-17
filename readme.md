@@ -6,11 +6,13 @@
 ## Installation Link<br>
 
   ```html
-sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/Pakhaji30/Autoscript-vpn/main/setupku.sh && chmod +x setupku.sh && ./setupku.sh
+sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/kanghory/Autoscript-vpn-V1/main/setupku.sh && chmod +x setupku.sh && ./setupku.sh
   ```
 ## Fitur:
 <br>
 ✅ SSH WEBSOCKET TLS & NON-TLS 443/80 MULTIPATH<br>
+✅ SSH SLOW DNS  MULTIPATH<br>
+✅ SSH UDP  MULTIPATH<br>
 ✅ XRAY VMESS WEBSOCKET TLS & NON-TLS 443/80 MULTIPATH<br>
 ✅ XRAY VLESS WEBSOCKET TLS & NON-TLS 443/80<br>
 ✅ XRAY TROJAN WEBSOCKET TLS & NON-TLS 443/80<br>
