@@ -27,7 +27,7 @@ wget -q -O /usr/bin/menu-trojan "https://raw.githubusercontent.com/kanghory/Auto
 #wget -q -O /usr/bin/menu-trgo "https://raw.githubusercontent.com/Agunxzzz/XrayCol/main/minacantik/menu-trgo.sh"
 wget -q -O /usr/bin/menu-ssh "https://raw.githubusercontent.com/Azigaming404/Autoscript-by-azi/main/menu-ssh.sh"
 #wget -q -O /usr/bin/menu-bckp "https://raw.githubusercontent.com/Agunxzzz/XrayCol/main/minacantik/menu-bckp-telegram.sh"
-wget -q -O /usr/bin/menu-bckp "https://raw.githubusercontent.com/Azigaming404/Autoscript-by-azi/main/menu-bckp-github.sh"
+wget -q -O /usr/bin/menu-bckp "https://raw.githubusercontent.com/kanghory/Autoscript-vpn-V1/main/menu-bckp-github.sh"
 #wget -q -O /usr/bin/bckp "https://raw.githubusercontent.com/Agunxzzz/XrayCol/main/minacantik/bckpbot.sh"
 wget -q -O /usr/bin/usernew "https://raw.githubusercontent.com/kanghory/Autoscript-vpn-V1/main/usernew.sh"
 wget -q -O /usr/bin/menu "https://raw.githubusercontent.com/kanghory/Autoscript-vpn-V1/main/menu.sh"
