@@ -35,13 +35,13 @@ wget -q -O /usr/bin/wbm "https://raw.githubusercontent.com/kanghory/Autoscript-v
 wget -q -O /usr/bin/changer "https://raw.githubusercontent.com/kanghory/Autoscript-vpn-V1/main/changer.sh"
 wget -q -O /usr/bin/xp "https://raw.githubusercontent.com/kanghory/Autoscript-vpn-V1/main/xp.sh"
 wget -q -O /usr/bin/addhost  "https://raw.githubusercontent.com/kanghory/Autoscript-vpn-V1/main/addhost.sh"
-wget -q -O /usr/bin/genssl  "https://raw.githubusercontent.com/Azigaming404/Autoscript-by-azi/main/genssl.sh"
-wget -q -O /usr/bin/fix "https://raw.githubusercontent.com/Azigaming404/Autoscript-by-azi/main/cf.sh"
+wget -q -O /usr/bin/genssl  "https://raw.githubusercontent.com/kanghory/Autoscript-vpn-V1/main/genssl.sh"
+wget -q -O /usr/bin/fix "https://raw.githubusercontent.com/kanghory/Autoscript-vpn-V1/main/cf.sh"
 #wget -q -O /usr/bin/update "https://raw.githubusercontent.com/Agunxzzz/XrayCol/main/minacantik/update.sh"
-wget -q -O /etc/issue.net "https://raw.githubusercontent.com/Azigaming404/Autoscript-by-azi/main/issue.net"
-wget -q -O /root/versi "https://raw.githubusercontent.com/Azigaming404/Autoscript-by-azi/main/versibasic"
+wget -q -O /etc/issue.net "https://raw.githubusercontent.com/kanghory/Autoscript-vpn-V1/main/issue.net"
+wget -q -O /root/versi "https://raw.githubusercontent.com/kanghory/Autoscript-vpn-V1/main/versibasic"
 wget -q -O /usr/bin/updatsc "https://raw.githubusercontent.com/Azigaming404/Autoscript-by-azi/main/update.sh"
-wget -q -O /usr/bin/menu-backup "https://raw.githubusercontent.com/Azigaming404/Autoscript-by-azi/main/menu-backup.sh"
+wget -q -O /usr/bin/menu-backup "https://raw.githubusercontent.com/kanghory/Autoscript-vpn-V1/main/menu-backup.sh"
 wget https://raw.githubusercontent.com/Azigaming404/Autoscript-by-azi/main/backup/set-br.sh
 bash set-br.sh
 chmod +x /usr/bin/menu-backup
