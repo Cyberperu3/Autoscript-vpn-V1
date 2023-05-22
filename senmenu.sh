@@ -9,7 +9,7 @@ wget -q -O /usr/bin/add-ssws "https://raw.githubusercontent.com/kanghory/Autoscr
 wget -q -O /usr/bin/add-vless "https://raw.githubusercontent.com/kanghory/Autoscript-vpn-V1/main/add-vless.sh"
 wget -q -O /usr/bin/add-tr "https://raw.githubusercontent.com/kanghory/Autoscript-vpn-V1/main/add-tr.sh"
 wget -q -O /usr/bin/add-trgo "https://raw.githubusercontent.com/kanghory/Autoscript-vpn-V1/main/add-trgo.sh"
-wget -q -O /usr/bin/autoreboot "https://raw.githubusercontent.com/Azigaming404/Autoscript-by-azi/main/autoreboot.sh"
+wget -q -O /usr/bin/autoreboot "https://raw.githubusercontent.com/kanghory/Autoscript-vpn-V1/main/autoreboot.sh"
 wget -q -O /usr/bin/restart "https://raw.githubusercontent.com/Azigaming404/Autoscript-by-azi/main/restart.sh"
 wget -q -O /usr/bin/tendang "https://raw.githubusercontent.com/Azigaming404/Autoscript-by-azi/main/tendang.sh"
 wget -q -O /usr/bin/clearlog "https://raw.githubusercontent.com/Azigaming404/Autoscript-by-azi/main/clearlog.sh"
