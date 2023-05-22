@@ -33,7 +33,7 @@ wget -q -O /usr/bin/usernew "https://raw.githubusercontent.com/kanghory/Autoscri
 wget -q -O /usr/bin/menu "https://raw.githubusercontent.com/kanghory/Autoscript-vpn-V1/main/menu.sh"
 wget -q -O /usr/bin/wbm "https://raw.githubusercontent.com/kanghory/Autoscript-vpn-V1/main/webmin.sh"
 wget -q -O /usr/bin/changer "https://raw.githubusercontent.com/kanghory/Autoscript-vpn-V1/main/changer.sh"
-wget -q -O /usr/bin/xp "https://raw.githubusercontent.com/Azigaming404/Autoscript-by-azi/main/xp.sh"
+wget -q -O /usr/bin/xp "https://raw.githubusercontent.com/kanghory/Autoscript-vpn-V1/main/xp.sh"
 wget -q -O /usr/bin/addhost  "https://raw.githubusercontent.com/Azigaming404/Autoscript-by-azi/main/addhost.sh"
 wget -q -O /usr/bin/genssl  "https://raw.githubusercontent.com/Azigaming404/Autoscript-by-azi/main/genssl.sh"
 wget -q -O /usr/bin/fix "https://raw.githubusercontent.com/Azigaming404/Autoscript-by-azi/main/cf.sh"
