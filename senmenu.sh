@@ -7,7 +7,7 @@ wget -q -O /usr/bin/add-ws "https://raw.githubusercontent.com/kanghory/Autoscrip
 wget -q -O /usr/bin/add-ssws "https://raw.githubusercontent.com/kanghory/Autoscript-vpn-V1/main/add-ssws.sh"
 #wget -q -O /usr/bin/add-socks "https://raw.githubusercontent.com/Agunxzzz/XrayCol/main/minacantik/add-socks.sh"
 wget -q -O /usr/bin/add-vless "https://raw.githubusercontent.com/kanghory/Autoscript-vpn-V1/main/add-vless.sh"
-wget -q -O /usr/bin/add-tr "https://raw.githubusercontent.com/Azigaming404/Autoscript-by-azi/main/add-tr.sh"
+wget -q -O /usr/bin/add-tr "https://raw.githubusercontent.com/kanghory/Autoscript-vpn-V1/main/add-tr.sh"
 wget -q -O /usr/bin/add-trgo "https://raw.githubusercontent.com/Azigaming404/Autoscript-by-azi/main/add-trgo.sh"
 wget -q -O /usr/bin/autoreboot "https://raw.githubusercontent.com/Azigaming404/Autoscript-by-azi/main/autoreboot.sh"
 wget -q -O /usr/bin/restart "https://raw.githubusercontent.com/Azigaming404/Autoscript-by-azi/main/restart.sh"
