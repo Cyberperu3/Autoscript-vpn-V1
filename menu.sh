@@ -190,7 +190,6 @@ echo -e "${BICyan}│ ${BOLD}${LIGHT}Client    = $Name                          
 echo -e "${BICyan}│ ${BOLD}${LIGHT}Expired   = $Exp                            ${NC}"
 echo -e "${BICyan}│ ${BOLD}${LIGHT}Developer = Kang Hory                       ${NC}"
 echo -e "${BICyan}│ ${BOLD}${LIGHT}Version   = 3.0.0 LTS                       ${NC}"
-
 echo -e "${BICyan}└──────────────────────────────────────────────────┘${NC}"
 
 echo
