@@ -188,7 +188,7 @@ echo -e "${CYAN}━━━━━━━━━━━━━━━━━━━━━�
 echo -e "${BICyan}┌──────────────────────────────────────────────────┐${NC}"
 echo -e "${BICyan}│ ${BOLD}${LIGHT}Client    = $Name                           ${NC}"
 echo -e "${BICyan}│ ${BOLD}${LIGHT}Expired   = $Exp                            ${NC}"
-echo -e "${BICyan}│ ${BOLD}${LIGHT}Developer = Kang Hory                       ${NC}"
+echo -e "${BICyan}│ ${BOLD}${LIGHT}Developer = Kang Hory V1                       ${NC}"
 echo -e "${BICyan}│ ${BOLD}${LIGHT}Version   = 3.0.0 LTS                       ${NC}"
 echo -e "${BICyan}└──────────────────────────────────────────────────┘${NC}"
 
